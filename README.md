@@ -1,4 +1,4 @@
-# Lecture
+# Template
 
 ## License
 This work is dual-licensed under CC-BY-SA-4.0 and MIT.
